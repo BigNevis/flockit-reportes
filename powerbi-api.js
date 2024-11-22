@@ -1,4 +1,5 @@
 import fetch from 'node-fetch';
+import pg from 'pg';
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -7,6 +8,14 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const baseUrl = 'https://bi-reports.appfire.app/aio-app/rest/aio-cn/1.0/powerbi/export/NmJiZDkwZTctN2NiMC00Njk4LTlkMmUtNjVjNDkyMDdk';
+
+const pool = new pg.Pool({
+  user: 'postgres',
+  host: 'localhost',
+  database: 'postgres',
+  password: 'admin',
+  port: 5432,
+});
 
 async function fetchOData(url) {
   console.log(`Fetching data from: ${url}`);
@@ -46,17 +55,16 @@ async function obtenerDatosEntidad(entidad) {
   }
 }
 
-async function guardarReporteEntidad(entidad, datos) {
-  const reportDir = path.join(__dirname, 'reports');
-  const fileName = `${entidad}_report_${new Date().toISOString().replace(/:/g, '-')}.json`;
-  const filePath = path.join(reportDir, fileName);
-
+async function guardarReporteEnDB(entidad, datos) {
+  const client = await pool.connect();
   try {
-    await fs.mkdir(reportDir, { recursive: true });
-    await fs.writeFile(filePath, JSON.stringify(datos, null, 2));
-    console.log(`Reporte para ${entidad} guardado en: ${filePath}`);
+    const query = 'INSERT INTO raw_data_json (entity_name, json_data) VALUES ($1, $2)';
+    await client.query(query, [entidad, JSON.stringify(datos)]);
+    console.log(`Datos de ${entidad} guardados en la base de datos.`);
   } catch (error) {
-    console.error(`Error al guardar el reporte para ${entidad}:`, error);
+    console.error(`Error al guardar datos de ${entidad} en la base de datos:`, error);
+  } finally {
+    client.release();
   }
 }
 
@@ -70,21 +78,50 @@ async function obtenerTodasLasEntidades() {
   }
 }
 
+async function inicializarBaseDeDatos() {
+  const client = await pool.connect();
+  try {
+    await client.query(`
+      CREATE TABLE IF NOT EXISTS raw_data_json (
+        id SERIAL PRIMARY KEY,
+        entity_name VARCHAR(50) NOT NULL,
+        data_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        json_data JSONB NOT NULL
+      );
+    `);
+    await client.query(`
+      CREATE INDEX IF NOT EXISTS idx_raw_data_json_entity_name ON raw_data_json(entity_name);
+    `);
+    await client.query(`
+      CREATE INDEX IF NOT EXISTS idx_raw_data_json_data_date ON raw_data_json(data_date);
+    `);
+    console.log('Base de datos inicializada correctamente.');
+  } catch (error) {
+    console.error('Error al inicializar la base de datos:', error);
+  } finally {
+    client.release();
+  }
+}
+
 async function obtenerReporteCompleto() {
   try {
     console.log('Iniciando la obtención de datos de todas las entidades...');
+
+    await inicializarBaseDeDatos();
 
     const entidades = await obtenerTodasLasEntidades();
     console.log('Entidades disponibles:', entidades);
 
     for (const entidad of entidades) {
       const datosEntidad = await obtenerDatosEntidad(entidad);
-      await guardarReporteEntidad(entidad, datosEntidad);
+      await guardarReporteEnDB(entidad, datosEntidad);
     }
 
-    console.log('Reportes de todas las entidades generados y guardados con éxito.');
+    console.log('Todos los datos han sido guardados en la base de datos.');
   } catch (error) {
-    console.error('Error al obtener o procesar los reportes:', error.message);
+    console.error('Error al obtener o procesar el reporte completo:', error.message);
+  } finally {
+    await pool.end();
   }
 }
 
