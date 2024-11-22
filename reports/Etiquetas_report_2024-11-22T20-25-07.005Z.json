@@ -1,0 +1,3034 @@
+[
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1198"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1198"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-1198"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1071"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1072"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2699"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-2457"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2698"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1487"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1070"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2697"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1488"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1073"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2223"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2102"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1496"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2101"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1497"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2463"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2100"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2462"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1495"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MASIN-2298"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MASIN-2298"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2348"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2106"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-395"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2347"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2105"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-394"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2346"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2104"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1498"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-397"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2345"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2103"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1499"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-396"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-399"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2296"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2296"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2109"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-398"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2349"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2107"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2472"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-391"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-390"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-393"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-392"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1059"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1346"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-362"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1347"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1223"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1102"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-485"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2433"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1103"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-363"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1108"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1109"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2438"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1348"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2437"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1349"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1107"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2322"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2321"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1068"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1069"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1066"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1067"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-3009"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-3009"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1060"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2326"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1061"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2325"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2324"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2323"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1477"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1119"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1119"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-377"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1065"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2329"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-376"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1062"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-379"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1063"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2327"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-378"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1482"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-1361"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2696"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2333"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1485"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2695"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2453"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2332"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2694"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2331"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1483"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2693"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2330"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1484"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-370"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1277"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-348"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1278"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-589"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-347"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1275"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1276"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-349"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1390"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2139"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-582"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-340"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3107"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1270"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2138"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3106"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3105"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-584"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-342"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-341"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3104"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2484"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2484"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-586"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-344"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2241"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-585"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-343"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1271"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1271"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3109"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-588"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-346"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-587"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-345"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3108"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1294"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1173"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1174"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1172"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1175"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1054"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1055"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1290"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1170"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1167"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1167"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1289"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1286"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-351"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-350"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-353"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1059"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-352"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-355"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-354"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-356"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3000"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2274"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1185"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1067"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3003"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1068"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3002"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1186"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1187"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-590"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1060"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-326"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-325"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-328"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-327"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-329"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1257"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2117"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2116"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2115"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2114"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2119"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1492"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1250"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2118"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1152"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-2245"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2123"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2122"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1153"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1154"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-337"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-336"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-338"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1159"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1039"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2489"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1157"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-331"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1158"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1037"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-330"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1262"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-696"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-333"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1263"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-332"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1260"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-698"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-335"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-697"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-334"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-2010"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-1283"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1162"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1284"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1163"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2492"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1160"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2491"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1282"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1161"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1040"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3103"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1287"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1166"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3102"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1167"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3101"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1164"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3100"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1286"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MAART-1165"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-424"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-429"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2975"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1643"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2974"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1644"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2973"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1641"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-540"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1642"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2979"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1647"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-421"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2978"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-541"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2977"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1645"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-544"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-423"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2976"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1646"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-422"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2981"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1651"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2980"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1418"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-438"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1419"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1655"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-1413"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-430"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1653"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1416"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-432"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1417"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-431"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2988"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1414"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-555"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-434"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1415"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-433"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2992"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1662"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1420"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2870"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1629"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1508"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-1508"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2718"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1509"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-402"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2959"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2717"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1869"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1627"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2958"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2716"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1628"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1507"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-646"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-409"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-408"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1984"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1863"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1500"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1985"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1501"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1983"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1862"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1620"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2957"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1988"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1867"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1625"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2956"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1626"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1505"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2955"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1986"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1865"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1623"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1502"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-401"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2954"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1987"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1866"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1624"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-400"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2960"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1990"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-539"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-418"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2964"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2722"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2963"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2721"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1875"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2962"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2720"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2961"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1510"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2726"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-410"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2967"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2725"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2966"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2724"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1634"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2965"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2723"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1877"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-411"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-746"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-824"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2414"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1203"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1325"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1204"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-826"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-705"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-1564"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-825"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-704"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1202"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-828"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-707"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1449"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1328"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-740"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-827"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-706"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2417"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1329"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-860"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-709"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2416"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1205"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-742"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-500"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-829"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-708"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2415"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-741"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1694"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1573"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-701"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-700"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-714"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-834"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-713"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1578"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1336"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-716"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1696"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-836"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-715"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1697"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-718"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-872"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-717"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1458"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1216"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-719"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2426"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-994"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1581"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-831"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-710"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2432"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1584"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-830"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-833"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-712"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1582"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-1461"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1340"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-832"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-711"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1583"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1341"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-843"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-722"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-721"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1429"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-724"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2188"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2188"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2639"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-965"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-723"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2997"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2634"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1423"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2996"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2633"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2995"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2632"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1663"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1421"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2994"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1422"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2638"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1669"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2637"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1428"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2999"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2636"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-720"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2998"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2635"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1426"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1551"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1552"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-1550"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-719"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-733"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-856"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-735"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2529"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-855"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-734"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-737"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-857"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-736"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-738"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2524"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1555"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2523"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1556"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1553"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2884"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2528"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1559"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2527"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1557"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2525"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1558"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2530"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-1684"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1927"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1924"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1925"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1754"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-704"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1928"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-706"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1922"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1920"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1921"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-985"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-985"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2727"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2727"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-953"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-832"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-955"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-834"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-833"
+  },
+  {
+    "Etiquetas": "DEV",
+    "Clave": "MASIN-3944"
+  },
+  {
+    "Etiquetas": "TEST",
+    "Clave": "MASIN-3944"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1402"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1403"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-835"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1763"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1400"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1764"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1401"
+  },
+  {
+    "Etiquetas": "DiscoTotales",
+    "Clave": "MASIN-517"
+  },
+  {
+    "Etiquetas": "Change-Request",
+    "Clave": "MAART-830"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1406"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1407"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1404"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-1404"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1404"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1405"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-1405"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1405"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1612"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1612"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-725"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-724"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-727"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-726"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-728"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-721"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-720"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-723"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-722"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1615"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-917"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1616"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3090"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1613"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1613"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-919"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1614"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-918"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1619"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1617"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1618"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1622"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1919"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1623"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1620"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1621"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-859"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-979"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-979"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-976"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-976"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1747"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1747"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1626"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1627"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1627"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1624"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1625"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1628"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1628"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1849"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1607"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2937"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1847"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1605"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2936"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1969"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1848"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-1606"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1710"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1710"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1842"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-429"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1840"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2935"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1845"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2934"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1846"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2933"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1844"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-783"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-420"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-785"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-422"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-784"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-421"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-787"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-424"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-786"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-423"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1970"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-789"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-788"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-780"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2706"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2705"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1859"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2700"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1852"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1853"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1850"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1851"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2704"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1856"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2703"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1857"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2702"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1854"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2701"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1855"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-794"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-431"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-793"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-430"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-796"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-433"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-795"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-677"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-435"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1980"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-676"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-434"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1981"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-679"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-437"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-678"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-436"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-790"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-792"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-791"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1827"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MASIN-2906"
+  },
+  {
+    "Etiquetas": "PRD",
+    "Clave": "MASIN-2906"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1838"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1839"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1957"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2925"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-416"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1831"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2924"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1834"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2923"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1956"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1835"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2922"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2921"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1833"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1705"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1705"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1354"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1354"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2564"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2564"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1355"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1353"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1353"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1232"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3029"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3033"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1096"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3032"
+  },
+  {
+    "Etiquetas": "TESTING",
+    "Clave": "MAART-1097"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3031"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3030"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3034"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1239"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1239"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2180"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-582"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-1091"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1244"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1245"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1484"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1485"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1248"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1246"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1247"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1482"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1483"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1481"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3044"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2075"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3046"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3045"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2540"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2540"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-2547"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-2547"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-3756"
+  },
+  {
+    "Etiquetas": "dr",
+    "Clave": "MASIN-3756"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1216"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-441"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2289"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2168"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-2047"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2288"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2167"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2287"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2286"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-1459"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1338"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1338"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2160"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-440"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-681"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1220"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1463"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-1463"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1347"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-3016"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2169"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2175"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2174"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-576"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2173"
+  },
+  {
+    "Etiquetas": "DiscoInsp",
+    "Clave": "MASIN-575"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MAART-2293"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2172"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-456"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-456"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2299"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2178"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2177"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2297"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2176"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2171"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2291"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2170"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1310"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1310"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1314"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1676"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1313"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3077"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3076"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3079"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3078"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-3617"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-3617"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1316"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1317"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1446"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1447"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3088"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3087"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-3089"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-3506"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-3506"
+  },
+  {
+    "Etiquetas": "Frontend",
+    "Clave": "MASIN-3506"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1891"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1891"
+  },
+  {
+    "Etiquetas": "Deploy",
+    "Clave": "MAART-2087"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MAART-3173"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1665"
+  },
+  {
+    "Etiquetas": "BACKEND",
+    "Clave": "MASIN-1780"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1780"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MAART-2099"
+  },
+  {
+    "Etiquetas": "Backend",
+    "Clave": "MASIN-1307"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1429"
+  },
+  {
+    "Etiquetas": "QA",
+    "Clave": "MASIN-1309"
+  }
+]

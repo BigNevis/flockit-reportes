@@ -1,0 +1,13 @@
+{
+  "name": "reportespowerbi",
+  "version": "1.0.0",
+  "description": "Proyecto para generar reportes de Power BI",
+  "main": "powerbi-api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node powerbi-api.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
